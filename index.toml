@@ -5,6 +5,11 @@ file = "README.md"
 hash = "587da162c30db9710564888053264e67c73447371711bac407ae6fb8d617ccac"
 
 [[files]]
+file = "mods/advancement-frames.pw.toml"
+hash = "b6e641648d3dafac84a2a17580cd97d01269523e8cc6ac5f957693f516e04692"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
@@ -27,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "6daabd128a0eb9ecce4e68b80b5b931994ac00d2bb2ac84a1372221f4845caec"
+metafile = true
+
+[[files]]
+file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
+hash = "cb262f9ba690b6d96791b69dca16cacffba6260f8a50664f48aac1cc10ab5387"
 metafile = true
 
 [[files]]
@@ -145,6 +155,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/dis-enchanting-table.pw.toml"
+hash = "d71851407e388787d67281a0564f357bd6384316fa1e4c1984ac6c549acba68d"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "d7ca6eaf1169273edc6c1f76d5563dfe2aa3b2605cab47e2df9e49dc0dcbf618"
 metafile = true
@@ -167,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "34342d4a5a9a4853c653cf768309d5b42f651250dc832bc239e746c736c70411"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "8efa1757432143004e1958e70f01139ed350e85c9d5842346d30ec32231636de"
 metafile = true
 
 [[files]]
@@ -210,6 +230,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "49bda925b24bb4c91684bd209a3b7446dc9d90202694979b861851c74380054b"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
 metafile = true
@@ -227,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
+file = "mods/homebound-mod.pw.toml"
+hash = "7d35edb12895ad69c0838ee24d43610a9606c9e226970eb0874022fac749cdda"
 metafile = true
 
 [[files]]
@@ -270,8 +300,23 @@ hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "4a40f089ec8944d5290ac5bb43037170603bda41de2d5af56a56a737f8341755"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "2bd1220d157ebe5c3a15a222840bc05739de0c797e1847e6a82ed41960a9f203"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "db3d3f1719c6f643a64565e3cf10c5cfe015deecd102e4059e37bf35dbda6364"
 metafile = true
 
 [[files]]
@@ -372,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/toastbegone.pw.toml"
+hash = "a4baef234f249a012dfb922578f2f9122a75c74ddc3dca9caebdb92cbd49cfb4"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Forgiving Void"
+filename = "forgivingvoid-neoforge-1.21.1-21.1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/4j8wbvPt/forgivingvoid-neoforge-1.21.1-21.1.4.jar"
+hash-format = "sha512"
+hash = "b6a68483f8126245f8bdbb098a8f40388daf08c977204a6f721bb87bfda131f1c01844b04be74961e847d591f7224b86391ba7a55067694b7825dbeecee205d7"
+
+[update]
+[update.modrinth]
+mod-id = "1vkzEZjE"
+version = "4j8wbvPt"
