@@ -1,0 +1,13 @@
+name = "Sew Craft"
+author = "Sewdohe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "97e52f74a7c1812bc7e6d328f244b9edc6aee2818da69d9090ae05093ed74327"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.193"
