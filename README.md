@@ -1,0 +1,59 @@
+# Modlist
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Advancement Plaques
+- Another Furniture
+- AppleSkin
+- Architectury API
+- Better Advancements
+- Better Archeology
+- Biomes O' Plenty
+- Carry On
+- CC: Tweaked
+- Cloth Config API
+- Create
+- Create Contraption Terminals
+- Create Crafts & Additions
+- Create Goggles
+- Create Jetpack
+- Create Slice & Dice
+- Create Waystones Recipes
+- Create: CC Better Recipes
+- Create: Copycats+
+- Create: Curios Jetpack & Backtank [Forge/Fabric/NeoForge]
+- Create: Liquid Fuel
+- Create: Numismatics
+- Create: Power Loader
+- Create: Structures Arise
+- Create: Trimmed
+- Creeper Overhaul
+- Curios API
+- Dynamic Crosshair
+- Easy Magic
+- Expanded Delight
+- Farmer's Delight
+- Geckolib
+- GlitchCore
+- GraveStone Mod
+- Handcrafted
+- Iceberg
+- Jade 🔍
+- Kotlin for Forge
+- Leaves Be Gone
+- Lithium
+- ModernFix
+- Mouse Tweaks
+- Ocean's Delight
+- Polymorph
+- Puzzles Lib
+- Resourceful Config
+- Resourceful Lib
+- Roughly Enough Items (REI)
+- Sodium
+- Sodium Dynamic Lights
+- Sodium Extra
+- Sodium Options API
+- TerraBlender
+- Tom's Simple Storage Mod
+- Traveler's Backpack
+- Waystones
