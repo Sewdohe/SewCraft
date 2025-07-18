@@ -155,6 +155,21 @@ hash = "4485332b8ff7be999cc4142ecad55763acdb587df69f748170bf5644f72d5729"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "34342d4a5a9a4853c653cf768309d5b42f651250dc832bc239e746c736c70411"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3a4e194e945214cc457178f48e65b9ab6a8201b6d15b9736cd673324b70b6edd"
 metafile = true
@@ -177,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/explorations.pw.toml"
 hash = "ef53b9e95213c1e0ad94b55c2124d1a2d15491ebe90dca36ff1b3e1b0dde2057"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "6f59e18621f30c6dc0ffa7f34324b423f3e3a7a8c251560c6a1dd835b6bce87a"
 metafile = true
 
 [[files]]
@@ -222,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "407c4cc8cb9920a9b23674d81952c512302525755d8fba12e94acecaaae949e7"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "49b54c496707ed15e2f22cd806cbebb3d3ac489483d97f4b61495690e2eeecea"
 metafile = true
 
 [[files]]
@@ -292,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "f527c21279cbfc2025d9cdf8267fe22cd43b42a2f994fc4ae0d76c069a844387"
 metafile = true
 
 [[files]]
