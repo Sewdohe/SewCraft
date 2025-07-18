@@ -365,11 +365,6 @@ hash = "ab9955978f4157c6504ba12140d2af14260dadeed6abc92ec15698b24337b505"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-refresh.pw.toml"
-hash = "08adb73786ed18c7c56c7e89baebc13979ddffe9afb9bd8dd93655c7dfd17640"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "588c54fc33f63da25e6e5b70c914606a2638bc89b6f27d3cbc115c8f82fb34e5"
 metafile = true
@@ -387,4 +382,9 @@ metafile = true
 [[files]]
 file = "mods/xp-tome.pw.toml"
 hash = "e328921ddfa33f9679adc80d8ae6d11cd407b95f5a8e73cb3e2f78708f6888d1"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
 metafile = true
