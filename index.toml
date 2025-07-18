@@ -40,6 +40,11 @@ hash = "fe25ab63de35303ce07384aac9c87ba25fe9dd5b714aa6d60efc47ab9575778c"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "3b25384acb368599971dd72d3fa48f5449552e6f732d5c25caee154926a447b1"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "4925021964dc745510d669181aa79614363618950f0a597e30447602a555c05e"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "88773a3eb40bdea95e454e38e9f8b8154d119997fbdd31c7c4bf8c24baaf4de4"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
 metafile = true
 
 [[files]]
@@ -155,8 +165,18 @@ hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
 metafile = true
 
 [[files]]
+file = "mods/expanded-combat.pw.toml"
+hash = "c7364d8ad15e8c3e73911005498ccd6d36ca9c9839816d4f8987cbdd5f810c7e"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "08383f7378f7bed0d61c328b1501dae5045356d328014a074e35aed601edba3b"
+metafile = true
+
+[[files]]
+file = "mods/explorations.pw.toml"
+hash = "ef53b9e95213c1e0ad94b55c2124d1a2d15491ebe90dca36ff1b3e1b0dde2057"
 metafile = true
 
 [[files]]
@@ -195,6 +215,11 @@ hash = "019fea93516a470bbcad284dd0cbad6f4e2914d96221c86e3f87c12fe6321e10"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "cfee5860cc82f9eaff2bfe477a8aff7bdc7ebb16984fbabd12049009101d1fa7"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "407c4cc8cb9920a9b23674d81952c512302525755d8fba12e94acecaaae949e7"
 metafile = true
@@ -225,6 +250,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "741334c0b04ce1321a30ac548b4dd663670c2e1daa53ecf0d6308541c65f0c98"
+metafile = true
+
+[[files]]
 file = "mods/nemos-inventory-sorting.pw.toml"
 hash = "fdf4ea21466a92d1c6616fa5dd0a575294fd93a8c3bbb27ea67f800d6c66637d"
 metafile = true
@@ -237,6 +267,16 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "152f6cfe8ee891ba80faa800dd3df3058be14882f9f8d07cb38eb6a6f96ece4b"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "39261ba5716225d4fcfe98701080fe78ad1832419f620a3789390a5998e918bf"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
@@ -270,6 +310,11 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "572960f9acd66c7337d37798b3dcc8ecba7b99566f1d2e251d253298d299a76e"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "f070e2ab660e9eae0105d416942cce82a0bc592e82660f61fe0d9fcd08e4e1e1"
 metafile = true
@@ -295,6 +340,16 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "2e7a9cebfe806d24d0889e3002fc526e2e766cad188f856ee192d03fe6820b89"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "c11483737707f6f419b22c901f6bec59393e3b9e143194e983df7e60155aa27c"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
@@ -310,6 +365,26 @@ hash = "ab9955978f4157c6504ba12140d2af14260dadeed6abc92ec15698b24337b505"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "08adb73786ed18c7c56c7e89baebc13979ddffe9afb9bd8dd93655c7dfd17640"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "588c54fc33f63da25e6e5b70c914606a2638bc89b6f27d3cbc115c8f82fb34e5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "208b2e2baac76e9a7385d6d8cae777dd41d251dee3b68f7fbcd85f11a2481d5e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9703fd3d469cd29248eab476027ce855a404e2508cd234ed4e5c75beb2592061"
+metafile = true
+
+[[files]]
+file = "mods/xp-tome.pw.toml"
+hash = "e328921ddfa33f9679adc80d8ae6d11cd407b95f5a8e73cb3e2f78708f6888d1"
 metafile = true
