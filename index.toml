@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "587da162c30db9710564888053264e67c73447371711bac407ae6fb8d617ccac"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
