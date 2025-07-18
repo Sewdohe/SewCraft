@@ -220,6 +220,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/nemos-inventory-sorting.pw.toml"
+hash = "fdf4ea21466a92d1c6616fa5dd0a575294fd93a8c3bbb27ea67f800d6c66637d"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "7fbae52cfbe5b2b5142587a40642e30ff4c736d0fd8f52a257e69f43266fe75b"
 metafile = true
