@@ -5,6 +5,11 @@ file = "README.md"
 hash = "587da162c30db9710564888053264e67c73447371711bac407ae6fb8d617ccac"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "87f3b1dbbc4cce1eeb5566e041fae7431b1f607cade6232df8417fd241e298f2"
+metafile = true
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "b6e641648d3dafac84a2a17580cd97d01269523e8cc6ac5f957693f516e04692"
 metafile = true
@@ -265,8 +270,23 @@ hash = "019fea93516a470bbcad284dd0cbad6f4e2914d96221c86e3f87c12fe6321e10"
 metafile = true
 
 [[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "bf9baef8bb1145e580ae8ee57b285e22838e943c56a96ffb424fd02bf99c468e"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "cfee5860cc82f9eaff2bfe477a8aff7bdc7ebb16984fbabd12049009101d1fa7"
+metafile = true
+
+[[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "0c9eb7002bd08576fb9b666cfaa103098eaf1480fd553ba3471b9568ac145e37"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
 
 [[files]]
@@ -310,6 +330,11 @@ hash = "2bd1220d157ebe5c3a15a222840bc05739de0c797e1847e6a82ed41960a9f203"
 metafile = true
 
 [[files]]
+file = "mods/more-mobs.pw.toml"
+hash = "396fc847d4d45c514d045cb56f9be2cf6c691bdece93db02501765106ee72c02"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -327,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/nemos-inventory-sorting.pw.toml"
 hash = "fdf4ea21466a92d1c6616fa5dd0a575294fd93a8c3bbb27ea67f800d6c66637d"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "b98e9fd453261dc6aafd0d479444655e765f72d34cf1796f713e236ad132e73b"
 metafile = true
 
 [[files]]
@@ -432,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "ab9955978f4157c6504ba12140d2af14260dadeed6abc92ec15698b24337b505"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
