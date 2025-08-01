@@ -320,11 +320,6 @@ hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
-metafile = true
-
-[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
 metafile = true
