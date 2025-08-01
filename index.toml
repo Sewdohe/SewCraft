@@ -165,11 +165,6 @@ hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
-file = "mods/create_factory_logistics.pw.toml"
-hash = "e5e2d7040bc5f0f67a88230657caac6cf653066af74aa34ef91b734b34bc453d"
-metafile = true
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "0d3bcce402b76cfa495a68c987e2a67a79a9bdf625a45266dec855610f1bd48e"
 metafile = true
