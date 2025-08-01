@@ -500,11 +500,6 @@ hash = "c11483737707f6f419b22c901f6bec59393e3b9e143194e983df7e60155aa27c"
 metafile = true
 
 [[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "d42a1a14488605365ab717784d6552dcfa3ad45f09332e0b983eab7516848c68"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
