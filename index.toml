@@ -5,11 +5,6 @@ file = "README.md"
 hash = "587da162c30db9710564888053264e67c73447371711bac407ae6fb8d617ccac"
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "87f3b1dbbc4cce1eeb5566e041fae7431b1f607cade6232df8417fd241e298f2"
-metafile = true
-
-[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "b6e641648d3dafac84a2a17580cd97d01269523e8cc6ac5f957693f516e04692"
 metafile = true
@@ -95,6 +90,16 @@ hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "4307091fcb4796398e968c0a446654ef25c216ee0c269c82fbaa034b92071314"
+metafile = true
+
+[[files]]
+file = "mods/create-blockchain.pw.toml"
+hash = "13f1a532599a3ba635471dbd0a7b4000c4d9a517614f8b664787f220add10035"
+metafile = true
+
+[[files]]
 file = "mods/create-ccbr.pw.toml"
 hash = "b2b7a901e7e24f6fbd2f2236320c9c2df88aa30f04a7eb643d723010b173b883"
 metafile = true
@@ -127,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+metafile = true
+
+[[files]]
+file = "mods/create-stam1o-tweaks.pw.toml"
+hash = "e3f104a6517765d92b46c239f5fb819edfe9f0f6988754358691b599e34621a8"
 metafile = true
 
 [[files]]
@@ -245,6 +255,11 @@ hash = "49bda925b24bb4c91684bd209a3b7446dc9d90202694979b861851c74380054b"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "b83675c9b88fcd909a7e1a0d93f8bfb06431f8f9f249d690520ba11e738c4402"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
 metafile = true
@@ -285,11 +300,6 @@ hash = "cfee5860cc82f9eaff2bfe477a8aff7bdc7ebb16984fbabd12049009101d1fa7"
 metafile = true
 
 [[files]]
-file = "mods/immersive-lanterns.pw.toml"
-hash = "0c9eb7002bd08576fb9b666cfaa103098eaf1480fd553ba3471b9568ac145e37"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
@@ -307,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "297eb75ce1aedc28f183a8891fde9c67318953e6c8adf3d7531a17b211f9349d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
 
 [[files]]
@@ -360,6 +375,11 @@ hash = "fdf4ea21466a92d1c6616fa5dd0a575294fd93a8c3bbb27ea67f800d6c66637d"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "b98e9fd453261dc6aafd0d479444655e765f72d34cf1796f713e236ad132e73b"
 metafile = true
@@ -382,6 +402,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "686a952412f0e2949505def1b3da9bc9cc5bf32433cdd9d6cc8edc62ad979362"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
 metafile = true
 
 [[files]]
@@ -415,8 +445,23 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "4c4185186dccb224e20da04103e40c32cfe11b8c6884b83e8d6ac60857daf969"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "572960f9acd66c7337d37798b3dcc8ecba7b99566f1d2e251d253298d299a76e"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "587514cb3c29b1aa90191a399aa2aee05bee9e1e170f1f60e9490640eea0897f"
+metafile = true
+
+[[files]]
+file = "mods/size-rayguns.pw.toml"
+hash = "af9cafe71a16a0e7ad7c6ae0b3712dff40e19ad2c82d9de14d0334cee7d42b69"
 metafile = true
 
 [[files]]
@@ -452,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "c11483737707f6f419b22c901f6bec59393e3b9e143194e983df7e60155aa27c"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "d42a1a14488605365ab717784d6552dcfa3ad45f09332e0b983eab7516848c68"
 metafile = true
 
 [[files]]
