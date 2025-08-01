@@ -100,6 +100,11 @@ hash = "13f1a532599a3ba635471dbd0a7b4000c4d9a517614f8b664787f220add10035"
 metafile = true
 
 [[files]]
+file = "mods/create-cc-total-logistics.pw.toml"
+hash = "498118d8d811270df4b778dfc2834ede888a3183b96ad1d9d0dfddcf56a38ed1"
+metafile = true
+
+[[files]]
 file = "mods/create-ccbr.pw.toml"
 hash = "b2b7a901e7e24f6fbd2f2236320c9c2df88aa30f04a7eb643d723010b173b883"
 metafile = true
@@ -157,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "e5e2d7040bc5f0f67a88230657caac6cf653066af74aa34ef91b734b34bc453d"
 metafile = true
 
 [[files]]
