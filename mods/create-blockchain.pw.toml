@@ -1,13 +1,13 @@
 name = "Create: Blockchain"
-filename = "createblockchain-1.0.0.jar"
+filename = "createblockchain-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FqqlztK7/versions/kZdhoxwK/createblockchain-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/FqqlztK7/versions/2iIcHKHD/createblockchain-1.0.1.jar"
 hash-format = "sha512"
-hash = "58fba935c21607987454b5eceecde4f9a212d5a6691669ec797e2a3e7bbb166e5e493831549550c3030d195f764682223bc44d0d6f1f0a9f07af4d2803a08d62"
+hash = "f954768e449308b3db6e344c257c79e29ec2ebeeee4af77cdef5115202dfeeba724683731d9e307681fb7fa619a9cea7c36f91d1dd1c7691992a53454f454b7c"
 
 [update]
 [update.modrinth]
 mod-id = "FqqlztK7"
-version = "kZdhoxwK"
+version = "2iIcHKHD"

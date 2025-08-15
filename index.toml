@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "9a985c8cfe04d72d8e848202ffcd68cabd89881a0befb5efbed1c82e6e9fad32"
+
+[[files]]
 file = "README.md"
 hash = "587da162c30db9710564888053264e67c73447371711bac407ae6fb8d617ccac"
 
@@ -96,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-blockchain.pw.toml"
-hash = "13f1a532599a3ba635471dbd0a7b4000c4d9a517614f8b664787f220add10035"
+hash = "337e2530018fc7e614b2ea948ca816697bb547ff1d481e5dd76988f9894dd5ec"
 metafile = true
 
 [[files]]
@@ -335,6 +339,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/ly-veinminer-enchantment.pw.toml"
+hash = "9a56e1c5451a21aa170fbcef4ba67213e2efd3ae1ee19a412858b35612377a23"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
@@ -447,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "587514cb3c29b1aa90191a399aa2aee05bee9e1e170f1f60e9490640eea0897f"
+metafile = true
+
+[[files]]
+file = "mods/simply-harvesting.pw.toml"
+hash = "05725c1fcf3d6bb5d20637e723a179b0551a4f5277e0e63d4b819a52065b81b8"
 metafile = true
 
 [[files]]
